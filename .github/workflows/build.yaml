@@ -56,6 +56,6 @@ jobs:
         with:
           draft: true
           prerelease: false
-          tag_name: "vnext"
+          tag_name: "v1.1.7"
           files: |
             buildscripts/*.jar
